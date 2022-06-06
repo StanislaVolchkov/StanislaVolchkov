@@ -3,10 +3,14 @@
 
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/2PjP.gif" width="100"/>
+  <img src="https://giffiles.alphacoders.com/169/169088.gif" width="700"/>
 </div>
 
-
+<div id="badges" align="center">
+  <a href="https://t.me/quality_pleasure">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **StanislaVolchkov/StanislaVolchkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
