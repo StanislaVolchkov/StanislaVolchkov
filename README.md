@@ -37,9 +37,23 @@
 ---
 
 ### Github Navigation
+  
 #### My own projects
   - <a href="https://github.com/StanislaVolchkov/Neural_Style_Transfer_with_tg_bot">Neural Style Transfer<a>
+  
+#### Computer Vision
+  - <a href="https://github.com/StanislaVolchkov/Computer_Vision/tree/main/Classification">Classification<a>
+  - <a href="https://github.com/StanislaVolchkov/Computer_Vision/tree/main/Segmentation">Segmentation<a>
+  - <a href="https://github.com/StanislaVolchkov/Computer_Vision/tree/main/Generation">Generation<a>
+  - <a href="https://github.com/StanislaVolchkov/Computer_Vision/tree/main/Detection">Detection<a>
 
+#### NLP
+  - <a href="https://github.com/StanislaVolchkov/NLP/tree/main/Classification">Classification<a>
+
+#### Classical ML
+  - <a href="https://github.com/StanislaVolchkov/Classical_ML/tree/main/Classification">Classification<a>
+  
+  
 ---
   
  ### :fire: My Stats :
