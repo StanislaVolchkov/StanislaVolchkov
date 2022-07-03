@@ -37,7 +37,8 @@
 ---
 
 ### Github Navigation
-  <a href="https://blogwork.ru/">Blogwork — Главная страница<a>
+#### My own projects
+  - <a href="https://github.com/StanislaVolchkov/Neural_Style_Transfer_with_tg_bot">Neural Style Transfer<a>
 
 ---
   
